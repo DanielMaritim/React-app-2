@@ -1,6 +1,6 @@
 # React-app-2
 
-A simple React App using babel with JSX syntax
+A simple React App using babel with JSX syntax as I learn how to use babel as a tool with React.js
 
 It uses the babel cli 
 ```` 
