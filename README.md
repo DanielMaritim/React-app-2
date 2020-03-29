@@ -2,7 +2,7 @@
 
 A simple React App using babel with JSX syntax as I learn how to use babel as a tool with React.js
 
-It uses the babel cli 
+It uses the in-browser Babel transformer
 ```` 
 <script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>
 ````
